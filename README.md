@@ -9,7 +9,7 @@ Create a resource containing information about all public GitHub initiatives cre
 + Are there guidelines for how GitHub is used by these organisations?  
 
 ## :framed_picture:	Theme 2 - Open datasets   
-The website [https://data.gov.au/](https://data.gov.au/) contains a rich repository of open datasets, for example [Index of Educational Disadvantage by school - SA government](https://data.gov.au/dataset/ds-sa-4ab8a539-eab5-48e2-8d88-a599d6114126/details?q=education).  
+The Australian government resource [https://data.gov.au/](https://data.gov.au/) contains a rich repository of open datasets, for example [Index of Educational Disadvantage by school - SA government](https://data.gov.au/dataset/ds-sa-4ab8a539-eab5-48e2-8d88-a599d6114126/details?q=education).  
 
 Select one dataset and create a repository to better feature one public dataset. Your repository can host:  
 
