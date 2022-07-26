@@ -7,3 +7,11 @@ Create a resource containing information about all public GitHub initiatives cre
 
 + How are statistical or ML research organisations using public GitHub repositories?     
 + Are there guidelines for how GitHub is used by these organisations?  
+
+## Theme 2 - Open datasets   
+
+
+## Theme 3 - Reproducibility  
+
+
+## Theme 4 - Elegant Documentation    
