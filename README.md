@@ -30,4 +30,5 @@ Your repository can host:
 + Code and output examples showcasing how the resource works. 
 
 
-## Theme 4 - Elegant Documentation    
+## :magic_wand: Theme 4 - Elegant Documentation    
+[Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is incredibly versatile and used for documentation purposes.  
