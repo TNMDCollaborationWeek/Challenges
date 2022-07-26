@@ -18,7 +18,16 @@ Select one dataset and create a repository to better feature one public dataset.
 + Examples of visualisations created from this dataset.  
 
 
-## Theme 3 - Software reproducibility  
+## :hammer_and_pick: Theme 3 - Software reproducibility  
+Data workflows can be rife with reproducibility challenges i.e. different package dependencies or dataset versions used, lack of a central code repository to store code changes, lack of unit tests or documentation etc.  
+
+Different resources have been developed to help address different reproducibility challenges i.e. [Emily Riederer's blog post on R development tools](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/).  
+
+Select a tool or resource that helps improve code reproducibility practices and create a repository which demonstrates a simple use of this resource. I.e. [`renv`](https://rstudio.github.io/renv/articles/renv.html) for maintaining R package dependencies.  
+
+Your repository can host: 
++ Documentation describing the reproducibility issue that the resource addresses.
++ Code and output examples showcasing how the resource works. 
 
 
 ## Theme 4 - Elegant Documentation    
