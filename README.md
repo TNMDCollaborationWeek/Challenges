@@ -31,4 +31,10 @@ Your repository can host:
 
 
 ## :magic_wand: Theme 4 - Elegant Documentation    
-[Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is incredibly versatile and used for documentation purposes.  
+[Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is incredibly versatile and used for documentation purposes. For example, it is used to create this very document. 
+
+Using markdown language as creatively and :sparkle: brightly :sparkle: as possible, create a repository to describe a statistical or qualitative research concept.  
+
+Your repository can host:  
++ Creative ways to communicate how people use or misuse your concept (memes?).  
++ 
