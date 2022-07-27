@@ -23,17 +23,17 @@ Data workflows can be rife with reproducibility challenges i.e. different packag
 
 Different resources have been developed to help address different reproducibility challenges i.e. [Emily Riederer's blog post on R development tools](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/).  
 
-Select a tool or resource that helps improve code reproducibility practices and create a repository which demonstrates a simple use of this resource. I.e. [`renv`](https://rstudio.github.io/renv/articles/renv.html) for maintaining R package dependencies.  
+Select a tool or resource that helps improve code reproducibility practices and create a repository which demonstrates a simple use of this resource. I.e. [`renv`](https://rstudio.github.io/renv/articles/renv.html) for maintaining R package dependencies. Alternatively, you can also showcasw your own functions which help to  streamline a data workflow better. 
 
 Your repository can host: 
-+ Documentation describing the reproducibility issue that the resource addresses.
-+ Code and output examples showcasing how the resource works. 
++ Documentation describing the reproducibility issue that your resource (or own functions) address.
++ Code and output examples showcasing how the resource works.  
 
 
 ## :magic_wand: Theme 4 - Elegant Documentation    
-[Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is incredibly versatile and used for documentation purposes. For example, it is used to create this very document. 
+[Markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is incredibly versatile and used for documentation purposes. For example, it is used to create this very document. A guide to markdown syntax can also be found [here](https://www.geeksforgeeks.org/introduction-to-markdown/).  
 
-Using markdown language as [creatively](https://holtzy.github.io/Pimp-my-rmd/) and :sparkle: brightly :sparkle: as possible, create a repository to describe a statistical or qualitative research concept.  
+Using markdown language as creatively and :sparkle: brightly :sparkle: as possible, create a repository to describe a statistical or qualitative research concept.  
 
 Your repository can host:  
 + Documentation explaining your statistical or qualitative research concept of interest. 
