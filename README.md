@@ -19,7 +19,10 @@ Select one dataset and create a repository to better feature one public dataset.
 
 
 ## :hammer_and_pick: Theme 3 - Software reproducibility  
+
 Data workflows can be rife with reproducibility challenges i.e. different package dependencies or dataset versions used, lack of a central code repository to store code changes, lack of unit tests or documentation etc.  
+
+The Analysis Function within the British government has a [strategy document](https://analysisfunction.civilservice.gov.uk/policy-store/reproducible-analytical-pipelines-strategy/) that discusses the benefits of reproducibility in an analytical pipeline, and what it takes for an analytical pipeline to be reproducible.
 
 Different resources have been developed to help address different reproducibility challenges i.e. [Emily Riederer's blog post on R development tools](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/).  
 
