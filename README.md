@@ -37,5 +37,5 @@ Using markdown language as creatively and :sparkle: brightly :sparkle: as possib
 
 Your repository can host:  
 + Documentation explaining your statistical or qualitative research concept of interest. 
-+ Creative ways to communicate how people use or misuse your concept (memes?).  
++ Creative ways to communicate how people use or misuse your concept (using memes?).  
 + Links to other resources about your statistical or qualitative research concept of interest.  
