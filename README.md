@@ -23,7 +23,7 @@ Data workflows can be rife with reproducibility challenges i.e. different packag
 
 Different resources have been developed to help address different reproducibility challenges i.e. [Emily Riederer's blog post on R development tools](https://emilyriederer.netlify.app/post/rmddd-tech-appendix/).  
 
-Select a tool or resource that helps improve code reproducibility practices and create a repository which demonstrates a simple use of this resource. I.e. [`renv`](https://rstudio.github.io/renv/articles/renv.html) for maintaining R package dependencies. Alternatively, you can also showcasw your own functions which help to  streamline a data workflow better. 
+Select a tool or resource that helps improve code reproducibility practices and create a repository which demonstrates a simple use of this resource. I.e. [`renv`](https://rstudio.github.io/renv/articles/renv.html) for maintaining R package dependencies. Alternatively, you can also showcase your own functions which help to  streamline data workflows. 
 
 Your repository can host: 
 + Documentation describing the reproducibility issue that your resource (or own functions) address.
